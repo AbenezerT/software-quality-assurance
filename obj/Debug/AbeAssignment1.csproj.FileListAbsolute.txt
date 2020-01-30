@@ -1,0 +1,6 @@
+D:\Winter 2020\SQA\Assignments\AbeAssignment1\bin\Debug\AbeAssignment1.exe.config
+D:\Winter 2020\SQA\Assignments\AbeAssignment1\bin\Debug\AbeAssignment1.exe
+D:\Winter 2020\SQA\Assignments\AbeAssignment1\bin\Debug\AbeAssignment1.pdb
+D:\Winter 2020\SQA\Assignments\AbeAssignment1\obj\Debug\AbeAssignment1.csprojAssemblyReference.cache
+D:\Winter 2020\SQA\Assignments\AbeAssignment1\obj\Debug\AbeAssignment1.exe
+D:\Winter 2020\SQA\Assignments\AbeAssignment1\obj\Debug\AbeAssignment1.pdb
