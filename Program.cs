@@ -42,16 +42,14 @@ namespace AbeAssignment1
                 }
                 else if (option == 2)//change radius
                 {
-                     // !!!!!!!!!!! 
                     Console.Write("Enter the new radius of the circle: ");
-                    //radius = Int32.Parse(Console.ReadLine());
+                   //check if the input is 
                     while ( !int.TryParse(Console.ReadLine(), out radius) || radius < 1)  
                     {
                         Console.Clear();
                         Console.WriteLine("The radius must be an integer less than one");
                         Console.Write("Please enter again: ");
-                        
-                        //radius = Int32.Parse(Console.ReadLine());
+                     
                     }
                     circle.SetRadius(radius);
                 }
